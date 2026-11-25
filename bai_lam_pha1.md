@@ -2,7 +2,7 @@
 
 - **Họ tên:**PHAM THI THU HA
 - **Lớp:**CNTT3
-- **Link repository :**
+- **Link repository :**https://github.com/hathup23-sketch/baitapcuoicungmon_PromptAI.git
 
 > Pha 1 (70 phút đầu, KHÔNG dùng AI). Viết xong, kéo thả file này vào repository Pha1 trước mốc giờ giám thị công bố.
 
